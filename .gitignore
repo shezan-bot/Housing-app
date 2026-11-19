@@ -1,0 +1,10 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# User uploaded images (we don't want to clutter the repo)
+uploads/*
+!uploads/.gitkeep
+
+# VS Code settings
+.vscode/
