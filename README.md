@@ -1,4 +1,6 @@
 # Bachelor Housing
+![Home Page](home.png)
+![Browse Page](browse.png)
 
 A web application built to solve the hassle of finding bachelor-friendly flats in Rajshahi. 
 
