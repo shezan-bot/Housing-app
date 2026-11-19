@@ -1,9 +1,9 @@
-# Rajshahi Bachelor Housing
+# Bachelor Housing
 
 A web application built to solve the hassle of finding bachelor-friendly flats in Rajshahi. 
 
 ## The Problem
-Bachelors in Rajshahi waste weeks calling numbers that turn out to be "family only" or demand 3 months of advance. Mainstream listing sites don't let you filter for these things.
+Bachelors waste weeks calling numbers that turn out to be "family only" or demand 3 months of advance. Mainstream listing sites don't let you filter for these things.
 
 ## Features
 - **Bachelor Focused:** Filter specifically for flats that allow bachelors.
